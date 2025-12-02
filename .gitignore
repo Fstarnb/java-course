@@ -1,1 +1,4 @@
 custom_order.class
+node_modules
+uploads
+npm-debug.log*
